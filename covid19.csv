@@ -1,0 +1,119 @@
+Date,Total positive,Total discharged,Total death,Total ICU,Gender,Age
+25-Jan,0,0,0,0,Male,Adult
+28-Jan,3,0,0,0,Male,Senior Citizen
+30-Jan,4,0,0,0,Male,Senior Citizen
+3-Feb,4,0,0,0,Male,Senior Citizen
+5-Feb,4,0,0,0,Female,Senior Citizen
+6-Feb,7,0,0,0,Female,Adult
+7-Feb,8,0,0,0,Male,Senior Citizen
+8-Feb,8,0,0,0,Male,Senior Citizen
+9-Feb,8,0,0,0,Male,Adult
+13-Feb,8,0,0,0,Male,Senior Citizen
+14-Feb,8,0,0,0,Male,Senior Citizen
+15-Feb,10,0,0,0,Male,Senior Citizen
+27-Feb,12,1,0,0,Male,Senior Citizen
+28-Feb,12,1,0,0,Female,Adult
+1-Mar,12,1,0,0,Male,Senior Citizen
+3-Mar,16,2,0,0,Male,Senior Citizen
+13-Mar,16,3,0,0,Male,Senior Citizen
+14-Mar,18,3,0,0,Male,Adult
+16-Mar,18,3,0,0,Female,Senior Citizen
+17-Mar,18,3,0,0,Male,Senior Citizen
+18-Mar,19,3,0,0,Male,Senior Citizen
+19-Mar,19,7,0,0,Male,Adult
+20-Mar,22,7,0,0,Male,Senior Citizen
+21-Mar,22,8,0,0,Male,Adult
+22-Mar,22,9,0,0,Male,Senior Citizen
+23-Mar,22,11,0,0,Male,Adult
+24-Mar,22,15,0,0,Male,Senior Citizen
+25-Mar,22,17,0,0,Female,Senior Citizen
+26-Mar,22,17,0,0,Female,Senior Citizen
+27-Mar,22,17,0,0,Male,Senior Citizen
+28-Mar,22,18,0,0,Male,Adult
+29-Mar,22,20,0,0,Male,Adult
+30-Mar,22,20,0,0,Male,Adult
+31-Mar,22,20,0,0,Male,Senior Citizen
+1-Apr,23,22,0,0,Female,Adult
+2-Apr,23,22,0,0,Male,Adult
+3-Apr,25,22,0,0,Female,Adult
+4-Apr,29,22,0,0,Female,Adult
+5-Apr,29,22,0,0,Male,Senior Citizen
+6-Apr,36,22,0,0,Male,Senior Citizen
+7-Apr,50,22,0,0,Male,Adult
+8-Apr,50,22,0,0,Male,Senior Citizen
+9-Apr,83,22,0,0,Male,Senior Citizen
+10-Apr,93,23,0,0,Female,Senior Citizen
+11-Apr,99,24,0,2,Male,Senior Citizen
+12-Apr,117,24,0,2,Male,Adult
+13-Apr,129,25,0,2,Male,Senior Citizen
+14-Apr,149,26,0,2,Male,Senior Citizen
+15-Apr,158,32,0,3,Male,Adult
+16-Apr,197,32,0,4,Male,Senior Citizen
+17-Apr,238,35,0,5,Female,Senior Citizen
+18-Apr,428,42,0,9,Male,Adult
+19-Apr,553,42,0,12,Female,Senior Citizen
+20-Apr,673,49,2,12,Female,Senior Citizen
+21-Apr,790,60,2,15,Female,Senior Citizen
+22-Apr,900,75,2,20,Male,Adult
+23-Apr,1030,87,2,26,Male,Adult
+24-Apr,1183,114,4,37,Male,Senior Citizen
+25-Apr,1306,139,10,46,Male,Senior Citizen
+26-Apr,1518,159,14,57,Male,Adult
+27-Apr,1624,183,16,64,Male,Senior Citizen
+28-Apr,1796,199,19,45,Male,Senior Citizen
+29-Apr,2031,215,23,45,Male,Senior Citizen
+30-Apr,2161,259,26,54,Female,Adult
+1-May,2320,320,27,73,Male,Senior Citizen
+2-May,2470,388,34,73,Male,Senior Citizen
+3-May,2626,479,37,94,Female,Adult
+4-May,2766,537,43,94,Male,Senior Citizen
+5-May,2908,645,45,102,Male,Adult
+6-May,3116,767,50,105,Female,Senior Citizen
+7-May,3333,827,53,108,Male,Senior Citizen
+8-May,3483,915,57,99,Male,Senior Citizen
+9-May,3662,1005,61,99,Male,Senior Citizen
+10-May,3793,1241,62,102,Male,Adult
+11-May,3963,1321,63,92,Male,Senior Citizen
+12-May,4119,1487,65,76,Female,Adult
+13-May,4228,1608,67,72,Male,Senior Citizen
+14-May,4346,1830,70,69,Male,Adult
+15-May,4530,1995,73,72,Male,Senior Citizen
+16-May,4683,2108,76,66,Male,Senior Citizen
+17-May,4817,2276,77,66,Female,Adult
+18-May,4987,2478,82,60,Male,Adult
+19-May,5072,2647,83,56,Male,Senior Citizen
+20-May,5182,2766,84,56,Male,Senior Citizen
+21-May,5251,2967,86,51,Male,Senior Citizen
+22-May,5305,3102,88,49,Male,Senior Citizen
+23-May,5389,3197,89,46,Male,Senior Citizen
+24-May,5425,3295,89,45,Male,Adult
+25-May,5482,3349,92,43,Male,Adult
+26-May,5532,3452,93,43,Female,Senior Citizen
+28-May,5603,3542,95,42,Male,Senior Citizen
+1-Jun,5691,3663,96,41,Male,Senior Citizen
+2-Jun,5742,3762,98,36,Female,Senior Citizen
+3-Jun,5780,3862,98,36,Female,Adult
+4-Jun,5820,3957,99,37,Male,Senior Citizen
+5-Jun,5851,4032,100,36,Male,Senior Citizen
+6-Jun,5945,4087,100,40,Male,Senior Citizen
+7-Jun,6002,4171,102,36,Female,Senior Citizen
+8-Jun,6071,4210,103,37,Male,Senior Citizen
+9-Jun,6176,4326,103,31,Male,Senior Citizen
+10-Jun,6298,4413,105,27,Male,Senior Citizen
+11-Jun,6353,4484,105,28,Male,Senior Citizen
+12-Jun,6383,4567,106,24,Male,Senior Citizen
+13-Jun,6428,4702,107,22,Male,Senior Citizen
+14-Jun,6467,4776,107,19,Male,Senior Citizen
+15-Jun,6535,4864,107,18,Male,Senior Citizen
+16-Jun,6589,4929,108,18,Male,Adult
+17-Jun,6656,5025,108,18,Female,Senior Citizen
+18-Jun,6726,5113,109,20,Male,Senior Citizen
+19-Jun,6742,5223,109,16,Male,Adult
+20-Jun,6779,5281,111,16,Male,Senior Citizen
+21-Jun,6819,5351,112,16,Male,Adult
+22-Jun,6855,5439,112,14,Female,Adult
+23-Jun,6872,5512,113,13,Female,Senior Citizen
+24-Jun,6894,5571,113,13,Male,Senior Citizen
+25-Jun,6941,5615,113,13,Female,Adult
+26-Jun,6978,5646,114,11,Female,Adult
+27-Jun,7009,5706,114,11,Male,Adult
